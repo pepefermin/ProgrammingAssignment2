@@ -1,3 +1,4 @@
+## This is my submitted code for project assignment 2 for R programming course.
 ## makeCacheMatrix caches the inverse of a matrix. Code is identical to the example given in the note
 makeCacheMatrix <- function(x = matrix()) {
   m <- NULL
